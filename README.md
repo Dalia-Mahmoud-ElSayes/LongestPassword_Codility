@@ -28,3 +28,5 @@ Assume that:
 N is an integer within the range [1..200]; 
 string S consists only of printable ASCII characters and spaces. 
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+  [![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/Dalia-Mahmoud-ElSayes / LongestPassword_Codility.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/Dalia-Mahmoud-ElSayes / LongestPassword_Codility)
