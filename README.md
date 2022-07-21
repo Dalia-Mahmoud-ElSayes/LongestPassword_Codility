@@ -1,4 +1,4 @@
-# LongestPassword_Codility [![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ LongestPassword_Codility.svg?style=flat-square)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ LongestPassword_Codility)
+# LongestPassword_Codility [![HitCount](https://hits.dwyl.com/Dalia-Mahmoud-ElSayes/LongestPassword_Codility.svg?style=flat-square)](http://hits.dwyl.com/Dalia-Mahmoud-ElSayes/ LongestPassword_Codility)
 2015 contest easy challenge on Codility solution
 
 Task description:
